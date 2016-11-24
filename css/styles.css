@@ -1,7 +1,7 @@
 /* we can apply style to a high level element like body, in which case these will become the defaults for all children */
 body {
-  background-color: whitesmoke;
-  font-family: cursive, serif;
+  background-color: #0f84d7;
+  font-family: cursive, times new roman;
   /* we can center the content on the page by specify a fixed width and setting the horizontal margin to auto */
   margin: 0 auto;
   max-width: 800px;
@@ -9,7 +9,7 @@ body {
 
 /* we can then apply styles to all elements of a specific type eg section */
 nav {
-  background-color: #eee;
+  background-color: #0f84c7;
   padding: 20px;
 }
 
@@ -20,7 +20,7 @@ footer {
 }
 
 section {
-  background-color: white;
+  background-color: #6263a4;
   border-radius: 5px; /* will give rounded corners */
   padding: 0 10px 0 10px;
 }
